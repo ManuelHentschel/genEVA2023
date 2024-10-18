@@ -1,0 +1,21 @@
+
+Elapsed time (GRF fit):
+Time difference of 28.9068 secs
+
+ Best params:
+c(1, 0)
+
+ 
+ Best params:
+5
+
+ 
+ Best params:
+641
+
+
+Run time:
+Time difference of 6.136579 hours
+
+Run time (cluster_run_shutdown.R):
+Time difference of 6.142284 hours
